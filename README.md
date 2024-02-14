@@ -1,4 +1,5 @@
-# tech-blog
+# TechBlog
+
 Estrutura de HTML5 e CSS3 de um site sobre notícias de tecnologia
 
--- ver branch master
+-- projeto está na _branch master_ --
